@@ -1,0 +1,3 @@
+- Creates a ui to select what data to fetch from yfinance.
+- Saves in excel
+- Multiple asset download supported
